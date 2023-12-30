@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703422721 source:d:\c\05-tamgiac1\main.c
+	<stdio.h>
+	<stdlib.h>
+
