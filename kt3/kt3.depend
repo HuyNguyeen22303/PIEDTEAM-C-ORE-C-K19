@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703349529 source:d:\c\kt3\main.c
+	<stdio.h>
+	<stdlib.h>
+

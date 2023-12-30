@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703424955 source:d:\c\kt5\main.c
+	<stdio.h>
+	<stdlib.h>
+

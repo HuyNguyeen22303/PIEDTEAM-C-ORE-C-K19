@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703262045 source:d:\c\17-timecalculation1\main.c
+	<stdio.h>
+	<stdlib.h>
+

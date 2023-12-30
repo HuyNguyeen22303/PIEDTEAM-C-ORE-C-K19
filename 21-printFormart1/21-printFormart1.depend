@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703314793 source:d:\c\21-printformart1\main.c
+	<stdio.h>
+	<stdlib.h>
+
